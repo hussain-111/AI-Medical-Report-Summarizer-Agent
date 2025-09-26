@@ -42,3 +42,7 @@ git clone https://github.com/your-username/medical-report-summarizer.git
 cd medical-report-summarizer
 pip install -r requirements.txt
 streamlit run app.py
+
+MODEL UI
+<img width="869" height="511" alt="image" src="https://github.com/user-attachments/assets/10c6b447-374c-459b-8e1a-bdc6477112f1" />
+
