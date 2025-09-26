@@ -43,6 +43,7 @@ cd medical-report-summarizer
 pip install -r requirements.txt
 streamlit run app.py
 
-MODEL UI
-<img width="869" height="511" alt="image" src="https://github.com/user-attachments/assets/10c6b447-374c-459b-8e1a-bdc6477112f1" />
+###UI
+<img width="869" height="511" alt="image" src="https://github.com/user-attachments/assets/efcc8ee3-b3f1-4157-ab73-d3f4c8f09386" />
+
 
