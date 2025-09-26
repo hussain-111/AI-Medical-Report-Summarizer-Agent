@@ -34,6 +34,9 @@ A Streamlit-based web app that uses LangChain and OpenAI to analyze full-body me
 4. Summary is displayed in the UI and can be downloaded
 
 ---
+###
+<img width="869" height="511" alt="image" src="https://github.com/user-attachments/assets/8a295a9d-d7e0-4a15-b3ce-835efc06764c" />
+
 
 ## 📦 Installation
 
@@ -43,7 +46,6 @@ cd medical-report-summarizer
 pip install -r requirements.txt
 streamlit run app.py
 
-###UI
-<img width="869" height="511" alt="image" src="https://github.com/user-attachments/assets/efcc8ee3-b3f1-4157-ab73-d3f4c8f09386" />
+
 
 
