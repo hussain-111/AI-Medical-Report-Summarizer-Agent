@@ -1,0 +1,54 @@
+==========================
+📄 ORIGINAL MEDICAL REPORT
+==========================
+
+Patient Name       : Kashish
+Gender             : Male
+Date of Birth      : April 18, 1994 (Age: 31)
+Date of Examination: September 25, 2025
+Medical Record No. : RBMC-038726
+Conducted at       : Riverbend Medical Center
+Physician          : Dr. Kavita Sharma, MD – General Medicine
+
+--------------------------
+1. Vital Signs
+--------------------------
+| Parameter        | Result        | Normal Range       | Remarks  |
+|------------------|---------------|---------------------|----------|
+| Height           | 165 cm        | —                   | Normal   |
+| Weight           | 64 kg         | —                   | Normal   |
+| BMI              | 23.5 kg/m²    | 18.5 – 24.9         | Normal   |
+| Blood Pressure   | 122/78 mmHg   | < 130/80 mmHg       | Normal   |
+| Heart Rate       | 74 bpm        | 60 – 100 bpm        | Normal   |
+| Respiratory Rate | 16/min        | 12 – 20/min         | Normal   |
+| Temperature      | 98.4°F        | 97°F – 99°F         | Normal   |
+
+--------------------------
+2. Patient History
+--------------------------
+- No significant past medical history reported.
+- No known drug allergies.
+- Non-smoker, occasional alcohol use.
+- Diabetic
+
+--------------------------
+3. Blood Investigations
+--------------------------
+
+Complete Blood Count (CBC)
+| Test            | Result         | Normal Range        | Remarks           |
+|-----------------|----------------|----------------------|-------------------|
+| Hemoglobin      | 11 g/dL        | 12.0 – 15.5 g/dL     | Low (Mild Anemia) |
+| Total WBC Count | 6,200 /µL      | 4,000 – 11,000 /µL   | Normal            |
+| Platelet Count  | 270,000 /µL    | 150,000 – 400,000/µL | Normal            |
+
+Metabolic Panel
+| Test            | Result         | Normal Range        | Remarks                    |
+|-----------------|----------------|----------------------|----------------------------|
+| Fasting Glucose | 130 mg/dL      | 70 – 99 mg/dL        | High (Impaired Fasting)    |
+| HbA1c           | 8.50%          | < 5.7%               | High – Indicative Diabetes |
+| Total Cholesterol| 200 mg/dL     | < 200 mg/dL          | Borderline                    |
+| HDL Cholesterol | 58 mg/dL       | > 50 mg/dL (female)  | Good                       |
+| LDL Cholesterol | 102 mg/dL      | < 130 mg/dL          | Borderline                 |
+| Creatinine      | 2.2 mg/dL      | 0.6 – 1.1 mg/dL       | High – Possible Kidney Dysfunction
+
